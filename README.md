@@ -1,5 +1,7 @@
 # react_blog
 
-don't know yet how to implement it right now, but the basic idea is to build a blog app with React.
+Simple blog built with React
+
+https://nostalgic-booth-32a5a3.netlify.app
 
 <img src="screenshots/screenshot.png" width="500">
