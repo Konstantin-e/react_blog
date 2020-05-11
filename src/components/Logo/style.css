@@ -1,0 +1,12 @@
+.logo {
+  text-align: center;
+  color: rgb(216, 216, 216);
+}
+
+.logo a {
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Amatic SC', cursive;
+  text-decoration: none;
+  font-size: 60px;
+  color: inherit;
+}

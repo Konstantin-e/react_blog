@@ -1,0 +1,5 @@
+.hero {
+  /* background-color: paleturquoise; */
+  background-image: url(../../img/milky-way-galaxy.jpg);
+  background-size: cover;
+}
